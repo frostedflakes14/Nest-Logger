@@ -1,0 +1,13 @@
+# Logs
+logs/
+
+# Configs and Auth
+.credentials
+*.json
+*config.py
+*config.pyc
+launcher.sh
+
+# prototype versions
+nest_custom.py
+GoogleAPI_quickstart.py
