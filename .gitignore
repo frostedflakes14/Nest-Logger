@@ -11,3 +11,4 @@ launcher.sh
 # prototype versions
 nest_custom.py
 GoogleAPI_quickstart.py
+OpenWeatherMap.py
